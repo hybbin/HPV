@@ -14,19 +14,13 @@ ThreadCount = 2
 # 延时
 SLP = 10
 # 预约人姓名
-Name = "\"赵霖\""
+Name = "\"姓名\""
 # 预约人电话
-PhoneNumber = "\"13119114565\""
+PhoneNumber = "\"电话号码\""
 # 预约人身份证号码
-CardNumber = "\"500239199701165752\""
+CardNumber = "\"身份证号码\""
 # 预约人已实名微信cookie
-Cookie = ";_siteStatVisitTime=1653547853981;_siteStatVisit=visit_23467846;_filterVisitTime=fehihllpjlmp" \
-         ";_orderSettleDay_113254=20220526;_orderBuyer=1;_orderSign=234678460113254;_pdDay_239_0=20220526" \
-         ";_pdDay_217_0=20220526;loginMemberAcct=xcx_QSKLCUjyYDaFvi;_FSESSIONID=G10QfmlzchSbHRx_;_cliid=nR" \
-         "-eJwd3CcFdwrDX;_siteStatId=234678460113254;loginMemberCacct=ip21719686;0pcck300=true" \
-         ";is_beta_site_23467846_0=false;_siteStatDay=20220526;_pdDay_162_0=20220526;_siteStatRedirectUv" \
-         "=redirectUv_23467846;_siteStatVisitorType=visitorType_23467846;113254pcck300=true;_siteStatReVisit" \
-         "=reVisit_23467846;_pdDay_223_0=20220526;loginCaid=23467846;siteId=0 "
+Cookie = "Cookies "
 
 
 def res(url, data):
