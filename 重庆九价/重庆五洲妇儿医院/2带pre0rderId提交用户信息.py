@@ -39,8 +39,8 @@ head = {'Host': 'wx6.jzapp.fkw.com',
         'Accept-Encoding': 'gzip,compress,br,deflate',
         'Referer': 'https://servicewechat.com/wx4005c81fa92cf8d9/7/page-frame.html'}
 data = {'preOrderId': '579215',
-        'batchDeliveryList': '[{"preOrderId":579215,"mctId":0,"selfRaisingMemberInfo":{"prop0":"赵霖",'
-                             '"prop1":"13119114565","prop2":"500239199701165752"},"shipType":"","shipSort":8,'
+        'batchDeliveryList': '[{"preOrderId":579215,"mctId":0,"selfRaisingMemberInfo":{"prop0":"姓名",'
+                             '"prop1":"联系电话","prop2":"身份证号码"},"shipType":"","shipSort":8,'
                              '"deliveryStyle":2,"selfRaisingPoint":{"id":1,"name":"重庆五洲妇儿医院","rai":{"prc":"500000",'
                              '"cic":"500100","coc":"500107","sta":"谢家湾正街3号"},"ais":"重庆重庆市九龙坡区谢家湾正街3号",'
                              '"phone":"02360332266","pp":{"lng":106.51412485065521,"lat":29.527649550124753,"pt":1},'
